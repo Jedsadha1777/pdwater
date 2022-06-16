@@ -13,7 +13,7 @@ function setup_my_theme() {
  add_action( 'after_setup_theme', 'setup_my_theme');
 
 
-
+echo'111';
 
 
 
